@@ -31,7 +31,7 @@ type: page
 ## 联系我
 
 * GitHub：[Liaodegeng](https://github.com/liaodegeng)
-* email：Liaodegeng126@126.com
+* email：liaodegeng@126.com
 * [Weibo](http://)
 * [知乎](https://)
 * [Facebook](https://)

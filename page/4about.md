@@ -30,8 +30,8 @@ type: page
 
 ## 联系我
 
-* GitHub：[Liaodegeng](https://github.com/liaodegeng)
-* email：liaodegeng@126.com
+* GitHub：[liaohai](https://github.com/liaohai)
+* email：liaohai@126.com
 * [Weibo](http://)
 * [知乎](https://)
 * [Facebook](https://)
@@ -50,13 +50,13 @@ type: page
 
 *2017.2.28*
 
-- `[^]` 修复目录滚动 bug [#22](https://github.com/Liaodegeng/Liaodegeng.github.io/issues/22), [#48](https://github.com/Liaodegeng/Liaodegeng.github.io/issues/48)
+- `[^]` 修复目录滚动 bug [#22](https://github.com/liaohai/liaohai.github.io/issues/22), [#48](https://github.com/liaohai/liaohai.github.io/issues/48)
 
 *2016.6.20*
 
 * `[+]` 在文章页中添加上一篇和下一篇文章链接。
 * `[^]` 修改 font-family 顺序，避免微软雅黑将单引号解析为全角。
-* `[^]` 修复标签云算法中被除数为零的 bug。[#26](https://github.com/Liaodegeng/Liaodegeng.github.io/issues/26), [#28](https://github.com/Liaodegeng/Liaodegeng.github.io/issues/28), [#30](https://github.com/Liaodegeng/Liaodegeng.github.io/issues/30)
+* `[^]` 修复标签云算法中被除数为零的 bug。[#26](https://github.com/liaohai/liaohai.github.io/issues/26), [#28](https://github.com/liaohai/liaohai.github.io/issues/28), [#30](https://github.com/liaohai/liaohai.github.io/issues/30)
 
 *2016.5.11 v2.0.1*
 
@@ -86,7 +86,7 @@ type: page
 * `[^]` 使用 Masonry 重写了 Demo 页中的瀑布流布局，响应式交互体验更好
 * `[-]` 去除了 jQuery 和 BootStrap，使得加载速度更快
 
-* 2016.3-2016.4 进行了一次大的改版和重构，详见 [README](https://github.com/Liaodegeng/Liaodegeng.github.io/blob/master/README.md) 和博文 [对这个 jekyll 博客主题的改版和重构](http://Liaodegeng.github.io/2016/03/12/jekyll-theme-version-2.0/)
+* 2016.3-2016.4 进行了一次大的改版和重构，详见 [README](https://github.com/liaohai/liaohai.github.io/blob/master/README.md) 和博文 [对这个 jekyll 博客主题的改版和重构](http://liaohai.github.io/2016/03/12/jekyll-theme-version-2.0/)
 * 2015.3-2015.4 完成了这个博客主题的第一版。
 
 ## 友情链接

@@ -37,7 +37,7 @@ type: page
 * [Facebook](https://)
 * [Twitter](https://)
 * [豆瓣](https:///)
-* [豆瓣音乐人-浩阳的小站](https:///)
+* [豆瓣音乐人-w的小站](https:///)
 
 ## 关于本站
 

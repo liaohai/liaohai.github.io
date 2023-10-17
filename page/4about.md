@@ -31,7 +31,7 @@ type: page
 ## 联系我
 
 * GitHub：[liaohai](https://github.com/liaohai)
-* email：liaohai@126.com
+* email：10088vip@gmail.com.com
 * [Weibo](http://)
 * [知乎](https://)
 * [Facebook](https://)
